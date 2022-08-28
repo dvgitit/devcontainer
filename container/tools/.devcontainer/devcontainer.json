@@ -16,6 +16,14 @@
 	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode",
     "features": {
-        "python":"latest"
+        "python":"latest",
+		"kubectl-helm-minikube": "latest",
+		"terraform": "latest",
+		"node": "latest",
+		"golang": "latest",
+		"java": "latest",
+		"maven": "latest",
+		"gradle": "latest",
+		"powershell": "latest"
     }
 }
